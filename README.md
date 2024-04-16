@@ -7,6 +7,7 @@
 
 
 
+
 - 🌱 I’m currently learning **Full-stack development and Cloud technologies**
 
 - 👯 I'm seeking opportunities to collaborate on **Open Source projects** and **API development.** I'm passionate about contributing to innovative projects and leveraging APIs to create impactful solutions.
